@@ -93,3 +93,43 @@
   </tr>
  
 </table>
+
+<h2>Variáveis</h2>
+<p>
+  Assim como no Python, no JavaScript não há necessidade de declarar o tipo da variável.
+  Podemos fazer a declaração de uma variável no JavaScript com três operadores, são eles: <strong>var, let e const</strong>. Os mais usados são <strong>let e const</strong>.
+</p>
+<p>
+  Os tipos de variáveis em JS são classificados em:
+</p>
+<br>
+<table border="1">    
+  <tr>
+    <th>Tipo de Variável</th>
+    <th>Descrição</th>
+  </tr>        
+  <tr>
+    <td>Strings</td>
+    <td>Texto</td>
+  </tr>
+  <tr>
+    <td>Numbers</td>
+    <td>São os números, seja eles integer, float, double etc.</td>
+  </tr>
+    <tr>
+    <td>Booleans</td>
+    <td>São os operadores booleanos (true ou false)</td>
+  </tr>
+    <tr>
+    <td>Arrays</td>
+    <td>É uma estrutura de dado para armazenar uma coleção de valores, sendo eles de qualquer tipo. Similar as listas em Python</td>
+  </tr>
+    <tr>
+    <td>Objects</td>
+    <td>Conjunto de atributos aninhados a uma variável</td>
+  </tr>
+    <tr>
+    <td>Functions</td>
+    <td>Em JavaScript é possível declarar uma variável como uma função, podendo fazer operações e retornando o valor para a variável de declaração</td>
+  </tr>
+</table>
