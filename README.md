@@ -210,3 +210,17 @@
   </tr>
 </table>
   
+<h2>Condicionais</h2>
+<p>
+  A Estrutura Condicional executa um código quando certas condições SÃO atendidas, ou executa algum código se as condições NÃO são atendidas. Também é possível criar várias condições diferentes para execurtar códigos diferentes. Para isso, são usados as expressões IF (se), ELSE (senão) e ELSE IF (senão se).
+</p>
+
+```
+if (condição 1) {                 //Se a condicao 1 for verdadeira, executa o que está dentro das chaves de if
+    bloco para condição 1 'true';
+ } else if (condição 2) {         //Se a condicao 1 nao for verdadeira, verificar se condicao 2 eh verdadeira. Se sim executa chaves de else if
+    bloco para condição 2 'true';
+ } else {                         //Se as condicoes 1 e 2 forem falsas, executa chaves de else
+    bloco para condição 'false';
+ }
+```
