@@ -79,17 +79,17 @@
     </tr>
     <tr>
     <td>E</td>
-    <td>&</td>
+    <td>&&</td>
   </tr>
     </tr>
     <tr>
     <td>Ou</td>
-    <td>|</td>
+    <td>||</td>
   </tr>
     </tr>
     <tr>
     <td>Não</td>
-    <td>~</td>
+    <td>!</td>
   </tr>
  
 </table>
