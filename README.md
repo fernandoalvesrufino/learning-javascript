@@ -133,3 +133,80 @@
     <td>Em JavaScript é possível declarar uma variável como uma função, podendo fazer operações e retornando o valor para a variável de declaração</td>
   </tr>
 </table>
+
+<h2>Tabela verdade dos operadores lógicos</h2>
+
+<h2>E (&&)</h2>
+<table border="1">    
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>Resultado</th>
+  </tr>        
+  <tr>
+    <td>True</td>
+    <td>True</td>
+    <td>True</td>
+  </tr>
+  <tr>
+    <td>True</td>
+    <td>False</td>
+    <td>False</td>
+  </tr>
+  <tr>
+    <td>False</td>
+    <td>True</td>
+    <td>False</td>
+  </tr>
+  <tr>
+    <td>False</td>
+    <td>False</td>
+    <td>False</td>
+  </tr>
+</table>
+
+<h2>Ou (||)</h2>
+<table border="1">    
+  <tr>
+    <th>A</th>
+    <th>B</th>
+    <th>Resultado</th>
+  </tr>        
+  <tr>
+    <td>True</td>
+    <td>True</td>
+    <td>True</td>
+  </tr>
+  <tr>
+    <td>True</td>
+    <td>False</td>
+    <td>True</td>
+  </tr>
+  <tr>
+    <td>False</td>
+    <td>True</td>
+    <td>True</td>
+  </tr>
+  <tr>
+    <td>False</td>
+    <td>False</td>
+    <td>False</td>
+  </tr>
+</table>
+
+<h2>Não (!)</h2>
+<table border="1">    
+  <tr>
+    <th>A</th>
+    <th>Resultado</th>
+  </tr>        
+  <tr>
+    <td>True</td>
+    <td>False</td>
+  </tr>
+  <tr>
+    <td>False</td>
+    <td>True</td>
+  </tr>
+</table>
+  
