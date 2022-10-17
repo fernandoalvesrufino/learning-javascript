@@ -224,3 +224,13 @@ if (condição 1) {                 //Se a condicao 1 for verdadeira, executa o 
     bloco para condição 'false';
  }
 ```
+
+<h3>PS: Operador ternário</h3>
+<p>
+  Geralmente é usado como um atalho para o if. É possível escrever o if em apenas uma linha, por assim dizer. OBS: Só é recomendado usar esse operador quando o condicional é simples, apenas com if e else.
+</p>
+
+```
+condition ? expr1 : expr2
+//se a condiçao antes da ? for verdadeira executa a primeira expressao (expr1), se for falsa executa a segunda expressao (expr2)
+```
