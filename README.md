@@ -1,4 +1,9 @@
+<h4 align="center">
+<img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/construction_1f6a7.png" alt="obras" width="15"> Projeto em construção <img src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/construction_1f6a7.png" alt="obras" width="15">
+</h4>
+
 <h1 align="center">JavaScript <img src="https://miro.medium.com/max/342/1*rpYyNZvqfFej0FgWEW5p9Q.png" height="35"></h1>
+
 <p>Nesse repositório vou descrever todos os meus aprendizados em JavaScript</p>
 
 <h2>Expressões e Operadores</h2>
