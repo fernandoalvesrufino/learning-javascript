@@ -1,6 +1,8 @@
 /*
 O try tenta executar um bloco de codigos, se encontrar algum erro vai cair no catch e independente de 
 ter caido no catch ou nao, o finally é executado.
+*/
+
 class Carro {
   constructor(modelo) {
     this.modelo = modelo
@@ -41,6 +43,3 @@ try {
   console.log("A autonomia do seu " + bmw.modelo + " é de 10 km/l")
 }
 console.log(bmw)
-*/
-
-
